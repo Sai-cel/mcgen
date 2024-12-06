@@ -3,4 +3,4 @@ def function(a,b,c):
     b=int(b)
     c=float(c)
     c=a-b+c
-    return c
+    return (f"This is number is adding three number {c}")
